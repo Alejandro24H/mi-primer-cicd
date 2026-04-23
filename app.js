@@ -3,7 +3,7 @@ function sumar(a, b) {
 }
 
 function hola() {
-  return "Hola Mundo";
+  return "Hola Arquitectos de Software";
 }
 
-module.exports = { sumar, hola };
+module.exports = { sumar, hola }; 
